@@ -26,7 +26,8 @@ My background includes entrepreneurship (TheYardLLC, Eagle Holdings Corp), perso
 - 🚀 Wellfound (AngelList): [Frank Smith III](https://wellfound.com/u/frank-smith-iii)
 - 👤 About Me: [about.me/franksmithiii](https://about.me/franksmithiii)
 - 🧪 Dev Community: [dev.to/franksmithiii](https://dev.to/franksmithiii)
-- [📺 Watch My Full-Stack Journey on YouTube](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+- [📺 Visit My YouTube Channel – FrankSmithIII23](https://www.youtube.com/@FrankSmithIII23)
+
 
 
 ---
