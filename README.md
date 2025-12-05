@@ -20,9 +20,12 @@ My background includes entrepreneurship (TheYardLLC, Eagle Holdings Corp), perso
 - UI/UX improvements for portfolio projects  
 
 ## 📫 Connect with Me
-- **Portfolio:** https://www.franksmithlll.com  
-- **LinkedIn:** https://www.linkedin.com/in/frank-smith-iii  
-- **Medium:** https://medium.com/@franksmithlll
+- 🧑‍💻 Portfolio Website: [franksmithlll.com](https://franksmithlll.com)
+- 🌐 Google Site: [Frank Smith III](https://sites.google.com/view/frank-smith-iii)
+- ✍️ Blog (Hashnode): [franksmithiii.hashnode.dev](https://franksmithiii.hashnode.dev/)
+- 🚀 Wellfound (AngelList): [Frank Smith III](https://wellfound.com/u/frank-smith-iii)
+- 👤 About Me: [about.me/franksmithiii](https://about.me/franksmithiii)
+- 🧪 Dev Community: [dev.to/franksmithiii](https://dev.to/franksmithiii)
 
 ---
 
