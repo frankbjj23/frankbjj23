@@ -28,6 +28,11 @@ My background includes entrepreneurship (TheYardLLC, Eagle Holdings Corp), perso
 - 🧪 Dev Community: [dev.to/franksmithiii](https://dev.to/franksmithiii)
 - [📺 Visit My YouTube Channel – FrankSmithIII23](https://www.youtube.com/@FrankSmithIII23)
 
+## 📝 Writing
+### LinkedIn Articles
+- **From COO to Code: Why Systems Thinking Is a Web Developer Superpower**  
+  I break down how leadership and ops experience translates into software engineering: clear problem framing, repeatable processes, accountability, and shipping reliable products.  
+  🔗 https://www.linkedin.com/pulse/from-coo-code-why-systems-thinking-web-developer-frank-smith-iii-bjfge/
 
 
 ---
