@@ -29,6 +29,7 @@ I'm a Fullstack Academy graduate, full-stack developer, and Field Operations Spe
 
 ## Writing
 
+- [Latest writing and project notes](https://franksmithlll.com/blog)
 - [How Frank Smith III Built Cutz By Casper](https://medium.com/@franksmithiii23/how-frank-smith-iii-built-cutz-by-casper-a-new-jersey-full-stack-developer-project-b33d04bdd6af)
 - [Field Operations and Software Reliability](https://franksmithlll.com/field-operations-software-reliability-frank-smith-iii)
 - [Jukebox Pro API Authentication Notes](https://franksmithlll.com/jukebox-pro-api-authentication-frank-smith-iii)
