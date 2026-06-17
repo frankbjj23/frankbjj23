@@ -8,6 +8,7 @@ I'm a Fullstack Academy graduate, full-stack developer, and Field Operations Spe
 - **Jukebox Pro**: Express/Postgres playlist API with registration, login, JWT authentication, bcrypt password hashing, protected playlist routes, seed data, and tests.
 - **Book Buddy**: React/Vite library client with catalog browsing, book details, registration, login, account views, reservations, and returns.
 - **Sturgis Options**: Rentals guide with filterable cards, lightbox images, voting, comments, and a Node/Express + Postgres API.
+- **Isaac Wright Jr. Advocacy Website**: Advocacy website in development for Isaac Wright Jr., created with his knowledge and approval. [Project page](https://franksmithlll.com/isaac-wright-jr-advocacy-website-project)
 
 ## Current Focus
 
