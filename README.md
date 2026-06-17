@@ -2,6 +2,15 @@
 
 I'm a Fullstack Academy graduate, full-stack developer, and Field Operations Specialist working in water treatment. Based in Bergen County, New Jersey, I build practical web applications and bring a field-operations mindset to software: clear workflows, dependable systems, safety awareness, and steady problem-solving.
 
+## My Journey
+
+I recently created a short video sharing my path into full-stack development, what I've learned from field operations, and the projects I'm continuing to build.
+
+- [Watch the journey video on YouTube](https://youtu.be/u8mSxJUR9Pw)
+- [Read the transcript and project links on my official site](https://franksmithlll.com/frank-smith-iii-my-journey)
+- [View my portfolio](https://franksmithlll.com/)
+- [Explore my projects](https://franksmithlll.com/projects)
+
 ## What I Build
 
 - **Cutz By Casper**: Next.js App Router, TypeScript, TailwindCSS, Supabase Postgres, Stripe Checkout, Twilio SMS, admin scheduling tools, and an AI secretary route.
