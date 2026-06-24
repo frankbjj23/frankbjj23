@@ -11,6 +11,7 @@ I recently created a short video sharing my path into full-stack development, wh
 - [Watch the journey video on YouTube](https://youtu.be/u8mSxJUR9Pw)
 - [Read the transcript and project links on my official site](https://franksmithlll.com/frank-smith-iii-my-journey)
 - [View my portfolio](https://franksmithlll.com/)
+- [Open my recruiter-focused developer resume](https://frank-smith-developer-resume.netlify.app/)
 - [Explore my projects](https://franksmithlll.com/projects)
 
 ## What I Build
@@ -39,6 +40,7 @@ finishing difficult work.
 ## Connect
 
 - Portfolio Website: [franksmithlll.com](https://franksmithlll.com/)
+- Developer Resume: [frank-smith-developer-resume.netlify.app](https://frank-smith-developer-resume.netlify.app/)
 - GitHub: [github.com/frankbjj23](https://github.com/frankbjj23)
 - LinkedIn: [linkedin.com/in/franksmithiii23](https://www.linkedin.com/in/franksmithiii23/)
 - Medium: [medium.com/@franksmithiii23](https://medium.com/@franksmithiii23)
