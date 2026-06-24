@@ -2,6 +2,8 @@
 
 I'm a Fullstack Academy graduate, full-stack developer, and Field Operations Specialist working in water treatment. Based in Bergen County, New Jersey, I build practical web applications and bring a field-operations mindset to software: clear workflows, dependable systems, safety awareness, and steady problem-solving.
 
+<img src="assets/frank-smith-iii-waterfront-laptop-work.jpg" alt="Frank Smith III working on a laptop beside ocean-facing windows" width="720" />
+
 ## My Journey
 
 I recently created a short video sharing my path into full-stack development, what I've learned from field operations, and the projects I'm continuing to build.
@@ -25,6 +27,14 @@ I recently created a short video sharing my path into full-stack development, wh
 - Practical software for booking workflows, APIs, and user-facing tools
 - Systems reliability, field operations, safety, and clear process design
 - Writing about project planning, technical growth, and lessons from real builds
+
+## Beyond Code
+
+Past jiu-jitsu training and obstacle racing reinforced habits I still use in
+software and field operations: preparation, steady pacing, adaptability, and
+finishing difficult work.
+
+<img src="assets/frank-smith-iii-spartan-mountain-weighted-carry.jpg" alt="Frank Smith III carrying a weighted bag on a mountain obstacle course" width="560" />
 
 ## Connect
 
