@@ -55,6 +55,7 @@ finishing difficult work.
 
 - [Latest writing and project notes](https://franksmithlll.com/blog)
 - [Building Cutz By Casper: Scheduling, Payments, and SMS](https://franksmithlll.com/building-cutz-by-casper-scheduling-payments-sms)
+- [CDL Driving, Logistics, and Software Planning](https://franksmithlll.com/cdl-driving-logistics-software-planning-frank-smith-iii)
 - [What Field Operations Taught Me About Debugging Software](https://dev.to/franksmithiii/what-field-operations-taught-me-about-debugging-software-196j)
 - [How Frank Smith III Built Cutz By Casper](https://medium.com/@franksmithiii23/how-frank-smith-iii-built-cutz-by-casper-a-new-jersey-full-stack-developer-project-b33d04bdd6af)
 - [What Field Operations Taught Me About Debugging Software](https://franksmithlll.com/field-operations-software-reliability-frank-smith-iii)
