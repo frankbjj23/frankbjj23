@@ -54,6 +54,7 @@ finishing difficult work.
 ## Writing
 
 - [Latest writing and project notes](https://franksmithlll.com/blog)
+- [Technical Communication in Software and Field Operations](https://franksmithlll.com/technical-communication-full-stack-field-operations-frank-smith-iii)
 - [Building Cutz By Casper: Scheduling, Payments, and SMS](https://franksmithlll.com/building-cutz-by-casper-scheduling-payments-sms)
 - [CDL Driving, Logistics, and Software Planning](https://franksmithlll.com/cdl-driving-logistics-software-planning-frank-smith-iii)
 - [What Field Operations Taught Me About Debugging Software](https://dev.to/franksmithiii/what-field-operations-taught-me-about-debugging-software-196j)
