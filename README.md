@@ -54,6 +54,10 @@ finishing difficult work.
 ## Writing
 
 - [Latest writing and project notes](https://franksmithlll.com/blog)
+- [Checklists, Handoffs, and Reliable Software Workflows](https://franksmithlll.com/checklists-handoffs-reliable-software-workflows-frank-smith-iii)
+- [Checklists, Handoffs, and Reliable Software Workflows on Medium](https://medium.com/@franksmithiii23/checklists-handoffs-and-reliable-software-workflows-19fd568e735d)
+- [Reliable Software Workflow Notes on DEV](https://dev.to/franksmithiii/checklists-handoffs-and-reliable-software-workflows-3070)
+- [Reliable Software Workflow Notes on Hashnode](https://franksmithiii.hashnode.dev/checklists-handoffs-and-reliable-software-workflows)
 - [Technical Communication in Software and Field Operations](https://franksmithlll.com/technical-communication-full-stack-field-operations-frank-smith-iii)
 - [Building Cutz By Casper: Scheduling, Payments, and SMS](https://franksmithlll.com/building-cutz-by-casper-scheduling-payments-sms)
 - [CDL Driving, Logistics, and Software Planning](https://franksmithlll.com/cdl-driving-logistics-software-planning-frank-smith-iii)
