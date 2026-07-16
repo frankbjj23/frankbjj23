@@ -54,6 +54,7 @@ finishing difficult work.
 ## Writing
 
 - [Latest writing and project notes](https://franksmithlll.com/blog)
+- [Documentation Habits for Field Operations and Software Projects](https://franksmithlll.com/documentation-habits-field-operations-software-projects-frank-smith-iii)
 - [Checklists, Handoffs, and Reliable Software Workflows](https://franksmithlll.com/checklists-handoffs-reliable-software-workflows-frank-smith-iii)
 - [Checklists, Handoffs, and Reliable Software Workflows on Medium](https://medium.com/@franksmithiii23/checklists-handoffs-and-reliable-software-workflows-19fd568e735d)
 - [Reliable Software Workflow Notes on DEV](https://dev.to/franksmithiii/checklists-handoffs-and-reliable-software-workflows-3070)
