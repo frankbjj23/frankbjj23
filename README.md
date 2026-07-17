@@ -12,6 +12,8 @@ I recently created a short video sharing my path into full-stack development, wh
 
 - [Watch the journey video on YouTube](https://youtu.be/u8mSxJUR9Pw)
 - [Read the transcript and project links on my official site](https://franksmithlll.com/frank-smith-iii-my-journey)
+- [Watch my Long Way Into Tech video](https://youtu.be/zmgNmgvr4zc)
+- [Read the Long Way Into Tech video page](https://franksmithlll.com/long-way-into-tech-frank-smith-iii-new-jersey)
 - [Watch my field operations to full-stack development video](https://franksmithlll.com/field-operations-to-full-stack-development-video-frank-smith-iii)
 - [View my portfolio](https://franksmithlll.com/)
 - [Open my recruiter-focused developer resume](https://frank-smith-developer-resume.netlify.app/)
