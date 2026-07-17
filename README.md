@@ -54,6 +54,7 @@ finishing difficult work.
 ## Writing
 
 - [Latest writing and project notes](https://franksmithlll.com/blog)
+- [How I Test User Workflows Before Calling Them Done](https://franksmithlll.com/qa-habits-user-workflows-field-operations-frank-smith-iii)
 - [Documentation Habits for Field Operations and Software Projects](https://franksmithlll.com/documentation-habits-field-operations-software-projects-frank-smith-iii)
 - [Checklists, Handoffs, and Reliable Software Workflows](https://franksmithlll.com/checklists-handoffs-reliable-software-workflows-frank-smith-iii)
 - [Checklists, Handoffs, and Reliable Software Workflows on Medium](https://medium.com/@franksmithiii23/checklists-handoffs-and-reliable-software-workflows-19fd568e735d)
