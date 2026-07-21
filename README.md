@@ -17,6 +17,8 @@ I recently created a short video sharing my path into full-stack development, wh
 - [Watch how field operations changed how I build software](https://youtu.be/N2v8KLxL5_k)
 - [Read the related technical operations article](https://franksmithlll.com/field-operations-lessons-technical-operations-frank-smith-new-jersey)
 - [Watch my field operations to full-stack development video](https://franksmithlll.com/field-operations-to-full-stack-development-video-frank-smith-iii)
+- [Watch my README documentation video](https://youtu.be/ifHwkbxCVY4)
+- [Read my README documentation article](https://franksmithlll.com/building-better-readme-files-full-stack-projects-frank-smith-iii)
 - [View my portfolio](https://franksmithlll.com/)
 - [Open my recruiter-focused developer resume](https://frank-smith-developer-resume.netlify.app/)
 - [Explore my projects](https://franksmithlll.com/projects)
