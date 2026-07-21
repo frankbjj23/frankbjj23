@@ -59,6 +59,7 @@ finishing difficult work.
 ## Writing
 
 - [Latest writing and project notes](https://franksmithlll.com/blog)
+- [Building Better README Files for Full-Stack Projects](https://franksmithlll.com/building-better-readme-files-full-stack-projects-frank-smith-iii)
 - [How I Evaluate a Project Idea Before Writing Code](https://franksmithlll.com/how-i-evaluate-project-ideas-before-writing-code-frank-smith-iii)
 - [How I Test User Workflows Before Calling Them Done](https://franksmithlll.com/qa-habits-user-workflows-field-operations-frank-smith-iii)
 - [Documentation Habits for Field Operations and Software Projects](https://franksmithlll.com/documentation-habits-field-operations-software-projects-frank-smith-iii)
