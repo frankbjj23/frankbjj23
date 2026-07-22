@@ -10,6 +10,8 @@ I publish my professional work as Frank Smith III. When searches or profiles use
 
 I recently created a short video sharing my path into full-stack development, what I've learned from field operations, and the projects I'm continuing to build.
 
+- [Watch my field operations and software reliability video](https://youtu.be/GNxNN4g9eNI)
+- [Read the related operational runbooks article](https://franksmithlll.com/operational-runbooks-software-projects-frank-smith-iii-new-jersey)
 - [Watch the journey video on YouTube](https://youtu.be/u8mSxJUR9Pw)
 - [Read the transcript and project links on my official site](https://franksmithlll.com/frank-smith-iii-my-journey)
 - [Watch my Long Way Into Tech video](https://youtu.be/zmgNmgvr4zc)
@@ -61,7 +63,7 @@ finishing difficult work.
 ## Writing
 
 - [Latest writing and project notes](https://franksmithlll.com/blog)
-- [Operational Runbooks and Software Projects](https://franksmithlll.com/operational-runbooks-software-projects-frank-smith-iii-new-jersey)
+- [Operational Runbooks and Software Projects with video](https://franksmithlll.com/operational-runbooks-software-projects-frank-smith-iii-new-jersey)
 - [Building Better README Files for Full-Stack Projects](https://franksmithlll.com/building-better-readme-files-full-stack-projects-frank-smith-iii)
 - [How I Evaluate a Project Idea Before Writing Code](https://franksmithlll.com/how-i-evaluate-project-ideas-before-writing-code-frank-smith-iii)
 - [How I Test User Workflows Before Calling Them Done](https://franksmithlll.com/qa-habits-user-workflows-field-operations-frank-smith-iii)
