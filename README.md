@@ -63,6 +63,8 @@ finishing difficult work.
 ## Writing
 
 - [Latest writing and project notes](https://franksmithlll.com/blog)
+- [Safety Checks Before Software Changes](https://franksmithlll.com/safety-checks-before-software-changes-frank-smith-new-jersey)
+- [The Safety Check Habit That Changed How I Build Software](https://youtu.be/qmEemvEi1K8)
 - [Operational Runbooks and Software Projects with video](https://franksmithlll.com/operational-runbooks-software-projects-frank-smith-iii-new-jersey)
 - [Building Better README Files for Full-Stack Projects](https://franksmithlll.com/building-better-readme-files-full-stack-projects-frank-smith-iii)
 - [How I Evaluate a Project Idea Before Writing Code](https://franksmithlll.com/how-i-evaluate-project-ideas-before-writing-code-frank-smith-iii)
