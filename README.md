@@ -21,7 +21,7 @@ I recently created a short video sharing my path into full-stack development, wh
 - [Watch my field operations to full-stack development video](https://franksmithlll.com/field-operations-to-full-stack-development-video-frank-smith-iii)
 - [Watch my README documentation video](https://youtu.be/ifHwkbxCVY4)
 - [Read my README documentation article](https://franksmithlll.com/building-better-readme-files-full-stack-projects-frank-smith-iii)
-- [Watch the 4-line status update video](https://youtu.be/cJtBhdFobyA)
+- [Watch the narrated 4-line status update video](https://youtu.be/nRMaqjBn288)
 - [Read the related status and reliability article](https://franksmithlll.com/status-blockers-next-actions-reliability-frank-smith-new-jersey)
 - [View my portfolio](https://franksmithlll.com/)
 - [Open my recruiter-focused developer resume](https://frank-smith-developer-resume.netlify.app/)
