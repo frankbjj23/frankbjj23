@@ -29,6 +29,7 @@ I recently created a short video sharing my path into full-stack development, wh
 
 ## What I Build
 
+- **Il Veliero Porticello**: Paid client website created from photographs of the establishment's printed menu and waterfront venue. I delivered a responsive digital menu, Google Maps and direct-review access, a downloadable QR code, GitHub source, and the custom domain [ilvelieroporticello.com](https://ilvelieroporticello.com/). [Read the case study](https://franksmithlll.com/paid-client-website-from-menu-photos-il-veliero-frank-smith-iii)
 - **Cutz By Casper**: Next.js App Router, TypeScript, TailwindCSS, Supabase Postgres, Stripe Checkout, Twilio SMS, admin scheduling tools, and an AI secretary route.
 - **Jukebox Pro**: Express/Postgres playlist API with registration, login, JWT authentication, bcrypt password hashing, protected playlist routes, seed data, and tests.
 - **Book Buddy**: React/Vite library client with catalog browsing, book details, registration, login, account views, reservations, and returns.
@@ -65,6 +66,7 @@ finishing difficult work.
 ## Writing
 
 - [Latest writing and project notes](https://franksmithlll.com/blog)
+- [How I Turned Photos of a Restaurant Menu Into a Live Client Website](https://franksmithlll.com/paid-client-website-from-menu-photos-il-veliero-frank-smith-iii)
 - [Status, Blockers, and Next Actions: A Practical Reliability Habit](https://franksmithlll.com/status-blockers-next-actions-reliability-frank-smith-new-jersey)
 - [Safety Checks Before Software Changes](https://franksmithlll.com/safety-checks-before-software-changes-frank-smith-new-jersey)
 - [The Safety Check Habit That Changed How I Build Software](https://youtu.be/qmEemvEi1K8)
