@@ -37,6 +37,7 @@ I recently created a short video sharing my path into full-stack development, wh
 - **Book Buddy**: React/Vite library client with catalog browsing, book details, registration, login, account views, reservations, and returns.
 - **Sturgis Options**: Rentals guide with filterable cards, lightbox images, voting, comments, and a Node/Express + Postgres API.
 - **Isaac Wright Jr. Advocacy Website**: Advocacy website in development for Isaac Wright Jr., created with his knowledge and approval. [Project page](https://franksmithlll.com/isaac-wright-jr-advocacy-website-project)
+- **Greater Expectation**: Responsive ministry website created as community service for Pastor Troy, with visitor-focused content and honest coming-soon states for unconfirmed details. [Live site](https://www.greaterexpectation.org/) | [Project story](https://franksmithlll.com/building-greater-expectation-faith-community-service-frank-smith-iii) | [Repository](https://github.com/frankbjj23/pastor-troy-site)
 
 ## Current Focus
 
@@ -69,6 +70,10 @@ finishing difficult work.
 
 - [Latest writing and project notes](https://franksmithlll.com/blog)
 - [How I Turned Photos of a Restaurant Menu Into a Live Client Website](https://franksmithlll.com/paid-client-website-from-menu-photos-il-veliero-frank-smith-iii)
+- [Building Greater Expectation Through Faith, Community Service, and Web Development](https://franksmithlll.com/building-greater-expectation-faith-community-service-frank-smith-iii)
+- [Why I Built the Greater Expectation Website as an Act of Faith and Service on Medium](https://medium.com/@franksmithiii23/why-i-built-the-greater-expectation-website-as-an-act-of-faith-and-service-310389916e61)
+- [Building a Church Website Without Guessing the Content on DEV](https://dev.to/franksmithiii/building-a-church-website-without-guessing-the-content-49eh)
+- [What I Learned Building a Faith-Centered Community Website on Hashnode](https://franksmithiii.hashnode.dev/what-i-learned-building-a-faith-centered-community-website)
 - [Status, Blockers, and Next Actions: A Practical Reliability Habit](https://franksmithlll.com/status-blockers-next-actions-reliability-frank-smith-new-jersey)
 - [Safety Checks Before Software Changes](https://franksmithlll.com/safety-checks-before-software-changes-frank-smith-new-jersey)
 - [The Safety Check Habit That Changed How I Build Software](https://youtu.be/qmEemvEi1K8)
