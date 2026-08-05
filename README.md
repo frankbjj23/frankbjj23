@@ -31,7 +31,7 @@ I recently created a short video sharing my path into full-stack development, wh
 
 <img src="assets/il-veliero-porticello-paid-client-site.png" alt="Il Veliero Porticello paid client website with its waterfront terrace and nautical branding" width="720" />
 
-- **Il Veliero Porticello**: Paid client website created from photographs of the establishment's printed menu and waterfront venue. I delivered a responsive digital menu, Google Maps and direct-review access, a downloadable QR code, GitHub source, and the custom domain [ilvelieroporticello.com](https://ilvelieroporticello.com/). [Read the case study](https://franksmithlll.com/paid-client-website-from-menu-photos-il-veliero-frank-smith-iii)
+- **Il Veliero Porticello**: Paid client website created from photographs of the establishment's printed menu and waterfront venue. I delivered a responsive digital menu, Google Maps and direct-review access, a downloadable QR code, GitHub source, and the custom domain [ilvelieroporticello.com](https://ilvelieroporticello.com/). [Read the case study](https://franksmithlll.com/paid-client-website-from-menu-photos-il-veliero-frank-smith-iii) | [Watch the website walkthrough](https://youtu.be/tl2KBDlMIUc)
 - **Cutz By Casper**: Next.js App Router, TypeScript, TailwindCSS, Supabase Postgres, Stripe Checkout, Twilio SMS, admin scheduling tools, and an AI secretary route.
 - **Jukebox Pro**: Express/Postgres playlist API with registration, login, JWT authentication, bcrypt password hashing, protected playlist routes, seed data, and tests.
 - **Book Buddy**: React/Vite library client with catalog browsing, book details, registration, login, account views, reservations, and returns.
