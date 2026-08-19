@@ -2,6 +2,8 @@
 
 I'm a Fullstack Academy graduate, full-stack developer, and Field Operations Specialist working in water treatment. Based in Bergen County, New Jersey, I build practical web applications and bring a field-operations mindset to software: clear workflows, dependable systems, safety awareness, and steady problem-solving.
 
+Professional credential: Commercial Driver's License (CDL) with Passenger Endorsement.
+
 I publish my professional work as Frank Smith III. When searches or profiles use Frank Smith III New Jersey or Frank Smith New Jersey, they refer to this same professional profile.
 
 <img src="assets/frank-smith-iii-waterfront-laptop-work.jpg" alt="Frank Smith III working on a laptop beside ocean-facing windows" width="720" />
