@@ -34,7 +34,10 @@ I recently created a short video sharing my path into full-stack development, wh
 <img src="assets/il-veliero-porticello-paid-client-site.png" alt="Il Veliero Porticello paid client website with its waterfront terrace and nautical branding" width="720" />
 
 - **Il Veliero Porticello**: Paid client website created from photographs of the establishment's printed menu and waterfront venue. I delivered a responsive digital menu, Google Maps and direct-review access, a downloadable QR code, GitHub source, and the custom domain [ilvelieroporticello.com](https://ilvelieroporticello.com/). [Read the case study](https://franksmithlll.com/paid-client-website-from-menu-photos-il-veliero-frank-smith-iii) | [Watch the website walkthrough](https://youtu.be/tl2KBDlMIUc)
-- **Cutz By Casper**: Next.js App Router, TypeScript, TailwindCSS, Supabase Postgres, Stripe Checkout, Twilio SMS, admin scheduling tools, and an AI secretary route.
+
+<img src="assets/redeemed-by-casper-barber-portfolio.jpg" alt="Redeemed Precision Grooming barber holding clippers for the Redeemed by Casper website project" width="720" />
+
+- **Redeemed by Casper**: Mobile-first Redeemed Precision Grooming portfolio built with Next.js, React, TypeScript, and Tailwind CSS, with Booksy as the verified booking source of truth. [Live site](https://redeemedbycasper.com/) | [Project evolution case study](https://franksmithlll.com/building-redeemed-by-casper-original-booking-prototype) | [Repository](https://github.com/frankbjj23/Cutz-By-Casper)
 - **Jukebox Pro**: Express/Postgres playlist API with registration, login, JWT authentication, bcrypt password hashing, protected playlist routes, seed data, and tests.
 - **Book Buddy**: React/Vite library client with catalog browsing, book details, registration, login, account views, reservations, and returns.
 - **Sturgis Options**: Rentals guide with filterable cards, lightbox images, voting, comments, and a Node/Express + Postgres API.
@@ -90,10 +93,10 @@ finishing difficult work.
 - [Reliable Software Workflow Notes on Hashnode](https://franksmithiii.hashnode.dev/checklists-handoffs-and-reliable-software-workflows)
 - [Technical Communication in Software and Field Operations](https://franksmithlll.com/technical-communication-full-stack-field-operations-frank-smith-iii)
 - [Field Operations Lessons for Technical Operations Roles](https://franksmithlll.com/field-operations-lessons-technical-operations-frank-smith-new-jersey)
-- [Building Cutz By Casper: Scheduling, Payments, and SMS](https://franksmithlll.com/building-cutz-by-casper-scheduling-payments-sms)
+- [Building Redeemed by Casper: From Booking Prototype to Live Barber Portfolio](https://franksmithlll.com/building-redeemed-by-casper-original-booking-prototype)
 - [CDL Driving, Logistics, and Software Planning](https://franksmithlll.com/cdl-driving-logistics-software-planning-frank-smith-iii)
 - [What Field Operations Taught Me About Debugging Software](https://dev.to/franksmithiii/what-field-operations-taught-me-about-debugging-software-196j)
-- [How Frank Smith III Built Cutz By Casper](https://medium.com/@franksmithiii23/how-frank-smith-iii-built-cutz-by-casper-a-new-jersey-full-stack-developer-project-b33d04bdd6af)
+- [How Frank Smith III Built the Original Redeemed by Casper Prototype](https://medium.com/@franksmithiii23/how-frank-smith-iii-built-cutz-by-casper-a-new-jersey-full-stack-developer-project-b33d04bdd6af)
 - [What Field Operations Taught Me About Debugging Software](https://franksmithlll.com/field-operations-software-reliability-frank-smith-iii)
 - [Jukebox Pro API Authentication Notes](https://franksmithlll.com/jukebox-pro-api-authentication-frank-smith-iii)
 - [Book Buddy React API Workflow](https://franksmithlll.com/book-buddy-react-api-workflow-frank-smith-iii)
