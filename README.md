@@ -14,7 +14,7 @@ I recently created a short video sharing my path into full-stack development, wh
 
 - [Watch my field operations and software reliability video](https://youtu.be/GNxNN4g9eNI)
 - [Read the related operational runbooks article](https://franksmithlll.com/operational-runbooks-software-projects-frank-smith-iii-new-jersey)
-- [Watch the journey video on YouTube](https://youtu.be/u8mSxJUR9Pw)
+- [Watch My Journey into Full-Stack Development and Field Operations on YouTube](https://youtu.be/u8auazWndrk)
 - [Read the transcript and project links on my official site](https://franksmithlll.com/frank-smith-iii-my-journey)
 - [Watch my Long Way Into Tech video](https://youtu.be/zmgNmgvr4zc)
 - [Read the Long Way Into Tech video page](https://franksmithlll.com/long-way-into-tech-frank-smith-iii-new-jersey)
