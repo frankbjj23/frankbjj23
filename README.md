@@ -1,10 +1,12 @@
 # Frank Smith III
 
-I am a Fullstack Academy graduate, full-stack developer, and Field Operations Specialist working in water treatment. Based in Bergen County, New Jersey, I build practical web applications and bring a field-operations mindset to software: clear workflows, dependable systems, safety awareness, documentation, and steady problem-solving.
+I am a Fullstack Academy graduate and full-stack developer based in Bergen County, New Jersey. I build practical web applications alongside film and television transportation work through Teamsters Local 817. My earlier water-treatment field experience informs how I approach software: clear workflows, dependable systems, documentation, and steady problem-solving.
+
+I pursued CDL school during my software training, gained practical experience at Coppola, and moved into union production driving on August 20, 2026. I continue developing websites and software around my production-work schedule.
 
 <a href="https://franksmithlll.com/about-frank-smith-iii-new-jersey"><img src="assets/frank-smith-iii-waterfront-laptop-work.jpg" alt="Frank Smith III working on a laptop beside ocean-facing windows" width="720" height="531" /></a>
 
-[About my development and field-operations work](https://franksmithlll.com/about-frank-smith-iii-new-jersey)
+[My software-development and Local 817 career journey](https://franksmithlll.com/about-frank-smith-iii-new-jersey#career-journey)
 
 ## Featured Work
 
