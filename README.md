@@ -4,7 +4,7 @@ I am a Fullstack Academy graduate and full-stack developer based in Bergen Count
 
 I pursued CDL school during my software training, gained practical experience at Coppola, and moved into union production driving on August 20, 2026. I continue developing websites and software around my production-work schedule.
 
-<a href="https://franksmithlll.com/about-frank-smith-iii-new-jersey"><img src="assets/frank-smith-iii-waterfront-laptop-work.jpg" alt="Frank Smith III working on a laptop beside ocean-facing windows" width="720" height="531" /></a>
+<a href="https://franksmithlll.com/frank-smith-iii-software-developer"><img src="https://franksmithlll.com/images/professional-portraits/frank-smith-iii-green-polo-portrait-768.jpg" alt="Portrait of Frank Smith III in a dark green polo against a light backdrop" width="600" height="400" /></a>
 
 [My software-development and Local 817 career journey](https://franksmithlll.com/about-frank-smith-iii-new-jersey#career-journey)
 
